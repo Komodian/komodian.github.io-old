@@ -6,7 +6,7 @@ On 24 November 2021 several Komodo Platform community members started a discussi
 The first identified task was to make a release of AtomicDEX-Desktop application without any Geo-Blocking and any other restrictions added to the application on some assets and cryptocurrencies tradablity within AtomicDEX application.
 
 ## Inviation to whole Komodo Platform Ecosystem communities
-This Unofficial Komodo Community is still in the plans and we invite whole Komodo Platform Ecosystem to be part of this effort, to help raise aware of the small yet rich Komodo Platform ecosytem. We have great independent projects evolving in Komodo Platform Ecosystem out of which few notable like [Verus](https://verus.io/), [Pirate Chain](https://pirate.black/), [Marmara Credit Loops](https://marmara.io/), [Tokel Platform](https://tokel.io/), and probably more.
+This Unofficial Komodo Community is still in the plans and we invite whole Komodo Platform Ecosystem to be part of this effort, to help raise awareness of the small yet rich Komodo Platform ecosytem. We have great independent projects evolving in Komodo Platform Ecosystem out of which few notable like [Verus](https://verus.io/), [Pirate Chain](https://pirate.black/), [Marmara Credit Loops](https://marmara.io/), [Tokel Platform](https://tokel.io/), [Chips](https://chips.cash/) and probably more.
 
 ## Community Software
 Since official AtomicDEX application has legal liabilities attached to it's open source code, the first agenda on Unofficial Komodo Community was to make a release of AtomicDEX without any restrictions or boundations. So, Komodian made a fork (copy) of AtomicDEX-Desktop's latest codebase from Komodo Platform and made a release without any restrictions in it.
