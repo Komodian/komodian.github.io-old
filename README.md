@@ -25,4 +25,4 @@ You can download the **AtomicDEX-Desktop Community Edition** from the following 
 We are open to more ideas what this unofficial Komodo community efforts can go for. Please reach out to us to help:
 
 - Github: [https://github.com/Komodian/](https://github.com/Komodian/)
-- Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
+- Discord: [https://discord.gg/C3dM23YfKh](https://discord.gg/C3dM23YfKh)
