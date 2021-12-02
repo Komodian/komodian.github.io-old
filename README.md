@@ -26,3 +26,5 @@ We are open to more ideas what this unofficial Komodo community efforts can go f
 
 - Github: [https://github.com/Komodian/](https://github.com/Komodian/)
 - Discord: [https://discord.gg/C3dM23YfKh](https://discord.gg/C3dM23YfKh)
+- Twitter: [https://twitter.com/KomodianOrg](https://twitter.com/KomodianOrg)
+- Substack Newsletter: [https://komodian.substack.com/](https://komodian.substack.com/)
