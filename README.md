@@ -22,7 +22,7 @@ You can download the **AtomicDEX-Desktop Community Edition** from the following 
 | Windows Installer | v0.5.3-beta-399 Community Edition | [Link](https://github.com/Komodian/atomicDEX-Desktop/releases/download/0.5.3-beta-399/atomicdex-desktop-0.5.3-beta-399-community-edition-windows-installer.exe) | ✅ |
 
 ## Connect With Us
-We are open to more ideas what this unofficial Komodo community efforts can do! Please reach out to us to help:
+We are open to more ideas what this community-led efforts can do! Please reach out to us to help:
 
 - Github: [https://github.com/Komodian/](https://github.com/Komodian/)
 - Discord: [https://discord.gg/C3dM23YfKh](https://discord.gg/C3dM23YfKh)
