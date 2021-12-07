@@ -25,6 +25,6 @@ You can download the **AtomicDEX-Desktop Community Edition** from the following 
 We are open to more ideas what this community-led efforts can do! Please reach out to us to help:
 
 - Github: [https://github.com/Komodian/](https://github.com/Komodian/)
-- Discord: [https://discord.gg/C3dM23YfKh](https://discord.gg/C3dM23YfKh)
+- Discord: [https://komodian.org/discord](https://komodian.org/discord)
 - Twitter: [https://twitter.com/KomodianOrg](https://twitter.com/KomodianOrg)
 - Substack Newsletter: [https://komodian.substack.com/](https://komodian.substack.com/)
